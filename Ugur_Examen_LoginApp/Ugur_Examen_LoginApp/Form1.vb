@@ -1,4 +1,5 @@
 ﻿Public Class Form1
+    'geen variabele die de keren dat er wordt ingelogd telt en ook niet een functie die hierop controleert
     Public minLenghtPassword As Integer = 8
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         TextBox2.Hide()
@@ -47,6 +48,9 @@
     End Sub
 
     Private Sub LoginButton_Click(sender As Object, e As EventArgs) Handles LoginButton.Click
+        'Speciaal teken is geen vereiste om in te loggen hier
+
+
         'Dim specialChar As Boolean
         'If InStr(1, "~`!@#$%^&*()-_=+';:,./<>", Me.WachtwoordTB.Text) > 0 Then
         '    specialChar = True
@@ -78,6 +82,9 @@
     End Sub
 
     Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox1.CheckedChanged
+        'opdracht was bij default in sterretjes te tonen, voor de rest werkt de functionaliteit zoals te verwachten
+
+
         'CHECKING IF THE CHECKBOX WAS CHECKED OR NOT.
         If CheckBox1.CheckState = CheckState.Checked Then
             'IF TRUE, IT SHOW THE TEXT
