@@ -1,0 +1,17 @@
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\bin\Debug\net6.0-windows\Ugur_Examen_LoginApp.exe
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\bin\Debug\net6.0-windows\Ugur_Examen_LoginApp.deps.json
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\bin\Debug\net6.0-windows\Ugur_Examen_LoginApp.runtimeconfig.json
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\bin\Debug\net6.0-windows\Ugur_Examen_LoginApp.dll
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\bin\Debug\net6.0-windows\Ugur_Examen_LoginApp.pdb
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.vbproj.AssemblyReference.cache
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.Form1.resources
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.vbproj.GenerateResource.cache
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.AssemblyInfoInputs.cache
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.AssemblyInfo.vb
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.dll
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\refint\Ugur_Examen_LoginApp.dll
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.pdb
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\Ugur_Examen_LoginApp.genruntimeconfig.cache
+C:\Users\ugurk\source\repos\Ugur_Examen_LoginApp\Ugur_Examen_LoginApp\obj\Debug\net6.0-windows\ref\Ugur_Examen_LoginApp.dll
